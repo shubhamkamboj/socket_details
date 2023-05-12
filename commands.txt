@@ -1,0 +1,5 @@
+1. install node
+2. npm install
+3. node app.js &
+4. ps -aux | grep "app.js"
+5. tail -f nohup.out 
